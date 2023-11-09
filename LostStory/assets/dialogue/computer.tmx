@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialogue version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="left-up" width="50" height="25" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="10">
+  <data id="1">
+    <dialogue name="computer" content="安安" skip="1" option="2">
+      <option content="閉嘴" plot="Fierce player" skip="1"/>
+      <option content="可以請你安靜嗎?" plot="Less Fierce player" skip="1"/>
+    </dialogue>
+    <dialogue name="computer" content="我只是一台電腦" skip="1"/>
+    <dialogue name="player" content="好喔" skip="1"/>
+  </data>
+</dialogue>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="來源檔案">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="graphics.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="animatedsprite.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="level.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="tinyxml2.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="tile.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="dialoguecontent.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="graphics.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="animatedsprite.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="globals.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="animation.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="level.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="tinyxml2.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="tile.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="collisionobject.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="collision.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="touchsend.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="dialoguecontent.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\map\map.tmx" />
+    <None Include="assets\map\map_1.tmx" />
+    <None Include="assets\map\map_2.tmx" />
+    <None Include="assets\dialogue\computer.tmx" />
+    <None Include="assets\map\new_map.tmx" />
+    <None Include="assets\map\player.tmx" />
+    <None Include="assets\map\computer.tmx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\player.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="assets\dialogue.png">
+      <Filter>資源檔</Filter>
+    </Image>
+    <Image Include="assets\PrtCave.png">
+      <Filter>資源檔</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

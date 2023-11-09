@@ -1,0 +1,27 @@
+﻿  animatedsprite.cpp
+D:\LostStory\LostStory\graphics.h(4,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  dialoguecontent.cpp
+D:\LostStory\LostStory\graphics.h(4,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  game.cpp
+D:\LostStory\LostStory\graphics.h(4,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  globals.cpp
+  graphics.cpp
+D:\LostStory\LostStory\graphics.h(4,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  input.cpp
+D:\LostStory\LostStory\input.h(6,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  bag.cpp
+D:\LostStory\LostStory\graphics.h(4,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  item.cpp
+D:\LostStory\LostStory\graphics.h(4,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  level.cpp
+D:\LostStory\LostStory\graphics.h(4,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  main.cpp
+D:\LostStory\LostStory\graphics.h(4,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  player.cpp
+D:\LostStory\LostStory\graphics.h(4,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  sprite.cpp
+D:\LostStory\LostStory\graphics.h(4,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  tile.cpp
+D:\LostStory\LostStory\graphics.h(4,10): fatal error C1083: 無法開啟包含檔案: 'SDL.h': No such file or directory
+  tinyxml2.cpp
+  正在產生程式碼...
